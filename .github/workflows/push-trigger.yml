@@ -23,7 +23,7 @@ on:
 
 jobs:
   build-commons:
-    uses: mosip/kattu/.github/workflows/maven-build.yml@master-java21
+    uses: abhishek8shankar/kattu/.github/workflows/maven-build.yml@master-new
     with:
       SERVICE_LOCATION: ./
       BUILD_ARTIFACT: commons

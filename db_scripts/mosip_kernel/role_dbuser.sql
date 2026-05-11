@@ -1,4 +1,4 @@
-CREATE ROLE kerneluser WITH 
+CREATE ROLE :dbuname WITH
 	INHERIT
 	LOGIN
 	PASSWORD :dbuserpwd;

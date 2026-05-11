@@ -1,4 +1,4 @@
-\c mosip_authdevice 
+\c :mosipdbname
 
 TRUNCATE TABLE authdevice.reg_device_type cascade ;
 

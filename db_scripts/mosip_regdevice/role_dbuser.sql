@@ -1,4 +1,4 @@
-CREATE ROLE regdeviceuser WITH 
+CREATE ROLE :dbunameuser WITH
 	INHERIT
 	LOGIN
 	PASSWORD :dbuserpwd;

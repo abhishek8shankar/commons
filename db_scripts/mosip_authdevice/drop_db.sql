@@ -1,2 +1,2 @@
-DROP DATABASE IF EXISTS mosip_authdevice;
+DROP DATABASE IF EXISTS :mosipdbname;
 
